@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ik9a1z2cZMk65ZKXaVBFukEKzodq6ZOAIUhlkG27hQDNuotfZbUJ37+ZvFU22dLS5GJ/XiN+CWiIKMC2rUdsMw==",
+  "dgSpecHash": "BxKakRGxzoMvHOSBAslTI2mzzRiid5I9kKcdK38Y69FOyril7UtFGp1GV6RTnPXLrHsH5HzZu62b3EOijGe6RA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\letic\\OneDrive\\Documentos\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Projetos\\api-senai\\senai-api\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\letic\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\letic\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

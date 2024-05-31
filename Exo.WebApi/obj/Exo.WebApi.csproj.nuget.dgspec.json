@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\letic\\OneDrive\\Documentos\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Projetos\\api-senai\\senai-api\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\letic\\OneDrive\\Documentos\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Projetos\\api-senai\\senai-api\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\letic\\OneDrive\\Documentos\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Projetos\\api-senai\\senai-api\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\letic\\OneDrive\\Documentos\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Projetos\\api-senai\\senai-api\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\letic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\letic\\OneDrive\\Documentos\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Projetos\\api-senai\\senai-api\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\letic\\AppData\\Roaming\\NuGet\\NuGet.Config",
